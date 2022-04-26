@@ -56,6 +56,7 @@
 #### Plex Tools
 * [Overseerr](https://overseerr.dev/) - A request manager with plex support.
 * [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in Plex.
+* [Tautulli](https://tautulli.com/) - Python based Plex server stats and monitor.
 
 #### Emby Tools
 #### Kodi Tools
