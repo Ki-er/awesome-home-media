@@ -19,6 +19,7 @@
 * [Featured (new releases)](#featured-new-releases)
 * [Media Servers](#media-servers)
 * [Communities](#communities)
+* [Tools](#tools)
 * [Tutorials](#tutorials)
 
 
@@ -34,8 +35,8 @@
 
 ## Communities
 #### Discord Servers
-* [Plex Discord Server](https://discord.gg/Rm8TPZSqxZ) - r/Plex discord server.
-* [Emby Community](http://discord.gg/A4Qf7z6) - r/Emby discord server.
+* [Plex Discord Server](https://discord.gg/Rm8TPZSqxZ) - r/plex discord server.
+* [Emby Community](http://discord.gg/A4Qf7z6) - r/emby discord server.
 * [Kodi Discord Server](https://discord.gg/9spGkWg) - Kodi discord server.
 
 #### Subreddits
