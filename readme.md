@@ -17,10 +17,19 @@
 <!-- toc -->
 ## Contents
 * [Featured (new releases)](#featured-new-releases)
+* [Media Servers](#media-servers)
 
 
 <!-- START content -->
 ## Featured (new releases)
+
+## Media Servers
+* [Plex](https://Plex.tv)
+* [Emby](https://emby.media/)
+* [Jellyfin](https://jellyfin.org/)
+* [Kodi](https://kodi.tv/)
+
+
 
 <!-- END CONTENT -->
 
