@@ -20,7 +20,9 @@
 * [Media Servers](#media-servers)
 * [Communities](#communities)
 * [Tools](#tools)
+  * [Plex](#plex)  
 * [Tutorials](#tutorials)
+  * [Plex](#plex)  
 
 
 <!-- START content -->
@@ -35,8 +37,8 @@
 
 ## Communities
 #### Discord Servers
-* [Plex Discord Server](https://discord.gg/Rm8TPZSqxZ) - r/plex discord server.
-* [Emby Community](http://discord.gg/A4Qf7z6) - r/emby discord server.
+* [Plex Discord Server](https://discord.gg/Rm8TPZSqxZ) - Plex subredditdiscord server.
+* [Emby Community](http://discord.gg/A4Qf7z6) - Emby subreddit discord server.
 * [Kodi Discord Server](https://discord.gg/9spGkWg) - Kodi discord server.
 
 #### Subreddits
@@ -53,22 +55,32 @@
 * [Jellyfin Forum](https://forum.jellyfin.org/) - The official Jellyfin forum.
 
 ## Tools
+#### Plex
+* [Overseerr](https://overseerr.dev/) - A request manager with plex support.
+* [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in Plex.
 
+#### Emby
+#### Kodi
+#### Jellyfin
 
+#### Generic Home Media
+* [Organizr](https://organizr.app/) - A modern front end home media manager with bookmarking capabilities.
+* [Ombi](https://ombi.io/) - A request manager with plex and emby capabilities.
 
 ## Tutorials
-#### Plex Tutorials
+#### Plex 
 
-#### Emby Tutorials
+
+#### Emby 
 * [Multiple Emby Guides](https://emby.media/community/index.php?/forum/24-tutorials-and-guides/) - A range of guides hosted on Emby forum.
 * [Emby Installation](https://support.emby.media/support/solutions/articles/44001159243-installation) - How to install Emby.
 * [Emby Collections](https://support.emby.media/support/solutions/articles/44001159487-collections#:~:text=To%20create%20a%20collection%2C%20start%20with%20a%20Movie%2C,an%20existing%20collection%2C%20or%20create%20a%20new%20one.) - Howe to create collections.
 
-#### Kodi Tutorials
+#### Kodi 
+#### Jellyfin 
+#### Generic Home Media
+* [Organizr Installation](https://docs.organizr.app/installation/installing-organizr) - How to install Organizr.
 
-#### Jellyfin Tutorials
-
-#### Generic Home Media Tutorials
 
 
 <!-- END CONTENT -->
