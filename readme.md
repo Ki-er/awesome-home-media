@@ -4,7 +4,7 @@
 # Awesome Home Media
 <!--lint ignore no-dead-urls-->
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![Awesome Lint](https://github.com/KieranRobson/awesome-sharing/actions/workflows/Awesome%20Lint.yaml/badge.svg)](https://github.com/KieranRobson/awesome-sharing/actions/workflows/Awesome%20Lint.yaml)
+[![Awesome Lint](https://github.com/KieranRobson/awesome-home-media/actions/workflows/Awesome%20Lint.yaml/badge.svg)](https://github.com/KieranRobson/awesome-home-media/actions/workflows/Awesome%20Lint.yaml)
 [![Pull Requests Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/KieranRobson/awesome-home-media/pulls)
 
 <!-- subtitle -->
