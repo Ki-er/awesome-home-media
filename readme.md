@@ -54,16 +54,17 @@
 
 ## Tools
 #### Plex Tools
-* [Overseerr](https://overseerr.dev/) - A request manager with plex support.
+* [Overseerr](https://overseerr.dev/) - Request manager with plex support.
 * [Plex Meta Manager](https://github.com/meisnate12/Plex-Meta-Manager) - Python script to update metadata information for items in Plex.
 * [Tautulli](https://tautulli.com/) - Python based Plex server stats and monitor.
+* [Synclounge](https://synclounge.tv/) - Watch Plex with your friends at the same time.
 
 #### Emby Tools
 #### Kodi Tools
 #### Jellyfin Tools
 #### Generic Home Media Tools
-* [Organizr](https://organizr.app/) - A modern front end home media manager with bookmarking capabilities.
-* [Ombi](https://ombi.io/) - A request manager with plex and emby capabilities.
+* [Organizr](https://organizr.app/) - Modern front end home media manager with bookmarking capabilities.
+* [Ombi](https://ombi.io/) - Request manager with plex and emby capabilities.
 
 ## Tutorials
 #### Plex Tutorials
