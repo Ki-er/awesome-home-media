@@ -35,7 +35,7 @@
 
 ## Communities
 #### Discord Servers
-* [Plex Discord Server](https://discord.gg/Rm8TPZSqxZ) - Plex subredditdiscord server.
+* [Plex Discord Server](https://discord.gg/Rm8TPZSqxZ) - Plex subreddit discord server.
 * [Emby Community](http://discord.gg/A4Qf7z6) - Emby subreddit discord server.
 * [Kodi Discord Server](https://discord.gg/9spGkWg) - Kodi discord server.
 
@@ -69,14 +69,13 @@
 ## Tutorials
 #### Plex Tutorials
 * [Official Plex Support](https://support.plex.tv/articles/) - Questions answered by Plex.
-* [Community Plex Support](https://forums.plex.tv/) - Forum discussion for Plex.
 * [Plex Media Server Installation](https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/) - How to install Plex Media Server.
 * [Plex Collections](https://support.plex.tv/articles/201273953-collections/) - How to create collections in Plex
 
 #### Emby Tutorials
 * [Multiple Emby Guides](https://emby.media/community/index.php?/forum/24-tutorials-and-guides/) - A range of guides hosted on Emby forum.
 * [Emby Installation](https://support.emby.media/support/solutions/articles/44001159243-installation) - How to install Emby.
-* [Emby Collections](https://support.emby.media/support/solutions/articles/44001159487-collections#:~:text=To%20create%20a%20collection%2C%20start%20with%20a%20Movie%2C,an%20existing%20collection%2C%20or%20create%20a%20new%20one.) - Howe to create collections.
+* [Emby Collections](https://support.emby.media/support/solutions/articles/44001159487-collections#:~:text=To%20create%20a%20collection%2C%20start%20with%20a%20Movie%2C,an%20existing%20collection%2C%20or%20create%20a%20new%20one.) - How to create collections.
 
 #### Kodi Tutorials
 #### Jellyfin Tutorials
