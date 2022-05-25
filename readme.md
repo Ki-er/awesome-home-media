@@ -68,6 +68,8 @@
 
 ## Tutorials
 #### Plex Tutorials
+* [Official Plex Support](https://support.plex.tv/articles/) - Questions answered by Plex.
+* [Community Plex Support](https://forums.plex.tv/) - Forum discussion for Plex.
 * [Plex Media Server Installation](https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/) - How to install Plex Media Server.
 * [Plex Collections](https://support.plex.tv/articles/201273953-collections/) - How to create collections in Plex
 
