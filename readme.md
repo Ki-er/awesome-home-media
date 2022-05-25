@@ -69,6 +69,7 @@
 ## Tutorials
 #### Plex Tutorials
 * [Plex Media Server Installation](https://support.plex.tv/articles/200264746-quick-start-step-by-step-guides/) - How to install Plex Media Server.
+* [Plex Collections](https://support.plex.tv/articles/201273953-collections/) - How to create collections in Plex
 
 #### Emby Tutorials
 * [Multiple Emby Guides](https://emby.media/community/index.php?/forum/24-tutorials-and-guides/) - A range of guides hosted on Emby forum.
